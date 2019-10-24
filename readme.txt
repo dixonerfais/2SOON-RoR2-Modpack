@@ -1,0 +1,17 @@
+Thanks for downloading 2SOON! Below are the instructions to get mods working. Follow them exactly as they are given and you'll be golden.
+
+**PLEASE NOTE: This currently does not work with the Geforce Now version of this game, only the latest release of the Steam version as of October 23rd, 2019. Neither myself nor any of the mod creators are responsible for any weird shit you do to your computer...
+
+ 
+
+1] CLOSE RISK OF RAIN 2 and go to your Risk of Rain 2 folder.
+
+**IF YOU DON'T KNOW HOW TO FIND YOUR ROR2 FOLDER: Open Steam, go to your Library, right click on Risk of Rain 2 and click on "Properties" [the last option in the drop down menu]. Go to the third tab "Local Files", and select the first option "Browse Local Files..." - Keep this folder open.
+
+2] DO NOT extract 2soon.zip [or 2soon16.zip]. Simply open it up in File Explorer.
+
+3]  Copy the three items inside [a folder called "BepInEx" and two files, "winhttp.dll" and "doorstop_config.ini" and paste them into your Risk of Rain 2 folder.
+
+4] Run Risk of Rain 2. That's it!
+
+**TO GO BACK TO VANILLA: Take the BepInEx folder out of your Risk of Rain 2 folder. It can be on your desktop or in another folder, just not in your Risk of Rain 2 folder!
