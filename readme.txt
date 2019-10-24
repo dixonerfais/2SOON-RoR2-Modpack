@@ -1,4 +1,4 @@
-Thanks for downloading 2SOON! Below are the instructions to get mods working. Follow them exactly as they are given and you'll be golden.
+Thanks for downloading 2SOON! Below are the instructions to get everything working. Follow them exactly as they are given and you'll be golden.
 
 **PLEASE NOTE: This currently does not work with the Geforce Now version of this game, only the latest release of the Steam version as of October 23rd, 2019. Neither myself nor any of the mod creators are responsible for any weird shit you do to your computer...
 
