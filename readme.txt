@@ -15,3 +15,20 @@ Thanks for downloading 2SOON! Below are the instructions to get everything worki
 4] Run Risk of Rain 2. That's it!
 
 **TO GO BACK TO VANILLA: Take the BepInEx folder out of your Risk of Rain 2 folder. It can be on your desktop or in another folder, just not in your Risk of Rain 2 folder!
+
+
+---------
+CHANGELOG
+---------
+1.0.1
+- Removed NoPickup due to people's configs not being set the way I've set them
+- Updated TeleportVote to 2.0.0
+- Switched RoR2Cheats for the new, simpler to use RoRCheats 2.4.1
+- Updated BuffPlus to 1.2.1
+- Updated NoBossNoWait to 1.0.3
+- Added GrovetenderWorldwide 1.0.1
+- Added StutterStunter 1.0.3
+- Added DirectorCardLib 1.0.1 and ArchaicWisps 1.0.0
+
+1.0.0
+- First release
