@@ -20,6 +20,10 @@ Thanks for downloading 2SOON! Below are the instructions to get everything worki
 ---------
 CHANGELOG
 ---------
+1.0.2
+- Reverted to RoR2Cheats 3.0.1
+- Removed TeleporterVote, StutterStunter, GrovetenderWorldwide, ArchaicWisps and DirectorCardLib
+
 1.0.1
 - Removed NoPickup due to people's configs not being set the way I've set them
 - Updated TeleportVote to 2.0.0
