@@ -10,7 +10,7 @@ Thanks for downloading 2SOON! Below are the instructions to get everything worki
 
 2] DO NOT extract 2SOON.zip [or 2SOON16.zip]. Simply open it up in File Explorer.
 
-3]  Copy the three items inside [a folder called "BepInEx" and two files, "winhttp.dll" and "doorstop_config.ini" and paste them into your Risk of Rain 2 folder.
+3]  Copy the three items inside [a folder called "BepInEx" and two files, "winhttp.dll" and "doorstop_config.ini"] and paste them into your Risk of Rain 2 folder.
 
 4] Run Risk of Rain 2. That's it!
 
