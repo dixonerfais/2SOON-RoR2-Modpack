@@ -20,6 +20,9 @@ Thanks for downloading 2SOON! Below are the instructions to get everything worki
 ---------
 CHANGELOG
 ---------
+1.0.3
+- Updated OrderedItems to 2.1.0; items are now properly ordered in inventory by tier and item ID
+
 1.0.2
 - Reverted to RoR2Cheats 3.0.1
 - Removed TeleporterVote, StutterStunter, GrovetenderWorldwide, ArchaicWisps and DirectorCardLib
