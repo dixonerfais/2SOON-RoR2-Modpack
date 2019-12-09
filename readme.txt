@@ -20,6 +20,9 @@ Thanks for downloading 2SOON! Below are the instructions to get everything worki
 ---------
 CHANGELOG
 ---------
+1.0.4
+- Switched RoR2Cheats for RoRCheats 3.2.1
+
 1.0.3
 - Updated OrderedItems to 2.1.0; items are now properly ordered in inventory by tier and item ID
 
