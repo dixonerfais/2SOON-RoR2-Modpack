@@ -20,6 +20,10 @@ Thanks for downloading 2SOON! Below are the instructions to get everything worki
 ---------
 CHANGELOG
 ---------
+1.1.1
+- Added HarbTweaks 1.0.0
+- Added EnemiesSpawnFaster 1.0.0
+
 1.1.0
 - Updated R2API to 2.3.7
 - Updated EnemiesWithItems to 1.2.7
