@@ -22,12 +22,13 @@ CHANGELOG
 ---------
 1.1.1
 - Added HarbTweaks 1.0.0
-- Added EnemiesSpawnFaster 1.0.0
+- Fixed money scaling
 
 1.1.0
 - Updated R2API to 2.3.7
 - Updated EnemiesWithItems to 1.2.7
 - Updated ShareSuite to 1.13.4
+- Added EnemiesSpawnFaster 1.0.0
 - Removed BiggerLockboxes due to being marked as deprecated on Thunderstore.io
 - Removed RoRCheats due to the commands not being useful in multiplayer
 - Removed NoBossNoWait due to being marked as deprecated on Thunderstore.io
