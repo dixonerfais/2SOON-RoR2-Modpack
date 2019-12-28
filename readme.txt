@@ -20,6 +20,9 @@ Thanks for downloading 2SOON! Below are the instructions to get everything worki
 ---------
 CHANGELOG
 ---------
+1.1.2
+- Updated DropinMultiplayer to 1.1.2
+
 1.1.1
 - Added HarbTweaks 1.0.0
 - Fixed money scaling
@@ -48,7 +51,7 @@ CHANGELOG
 
 1.0.2
 - Reverted to RoR2Cheats 3.0.1
-- Removed TeleporterVote, StutterStunter, GrovetenderWorldwide, ArchaicWisps and DirectorCardLib
+- Removed TeleporterVote, StutterStunter, GrovetenderWorldwide, ArchaicWisps and DirectorCardLib due to not working entirely
 
 1.0.1
 - Removed NoPickup due to people's configs not being set the way I've set them
