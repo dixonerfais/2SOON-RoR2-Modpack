@@ -8,7 +8,7 @@ Thanks for downloading 2SOON! Below are the instructions to get everything worki
 
 **IF YOU DON'T KNOW HOW TO FIND YOUR ROR2 FOLDER: Open Steam, go to your Library, right click on Risk of Rain 2 and click on "Properties" [the last option in the drop down menu]. Go to the third tab "Local Files", and select the first option "Browse Local Files..." - Keep this folder open.
 
-2] DO NOT extract 2SOON.zip [or 16SOON.zip if playing with more than 4 people]. Simply open it up in File Explorer.
+2] DO NOT extract 2SOON.zip [or 2SOON_16.zip if playing with more than 4 people]. Simply open it up in File Explorer.
 
 3]  Copy the three items inside [a folder called "BepInEx" and two files, "winhttp.dll" and "doorstop_config.ini"] and paste them into your Risk of Rain 2 folder.
 
