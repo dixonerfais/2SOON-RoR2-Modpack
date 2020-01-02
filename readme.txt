@@ -20,6 +20,12 @@ Thanks for downloading 2SOON! Below are the instructions to get everything worki
 ---------
 CHANGELOG
 ---------
+1.1.4
+- Added RoRCheats 3.3.5
+
+1.1.3
+- I literally don't even remember
+
 1.1.2
 - Updated DropinMultiplayer to 1.1.2
 
