@@ -1,3 +1,4 @@
+SetBuildID [the .dll goes in Risk of Rain 2 > BepInEx > monomod, NOT plugins!]
 Enemies With Items 1.2.7
 ShareSuite 1.13.4
 Ordered Items 2.1.0
