@@ -5,23 +5,23 @@ Ordered Items 2.1.0
 HarbTweaks 1.0.0
 Faster Chances 1.0.0
 Infusion Stack Fix 1.2.0
-Kookehs Drop Item Mod
+Kookehs Drop Item Mod [latest version as of 1/5/2020]
 Stats Display 2.3.0
 RoR Cheats 3.3.5
 Thiccify 1.1.1
 Item Exchange Notifier 1.3.0
 Shrine of Dio 1.2.0
 Buff Plus 1.2.1
-Item Counters
+Item Counters [latest version as of 1/5/2020]
 Item Stats MOd 1.2.1
 Enemies Spawn Faster 1.0.0
 R2API [latest version as of 1/5/2020]
 Dropin Multiplayer 1.1.2
 Increase Huntress Range 1.0.0
-Twenty Minute Pings
-Empty Chests Be Gone 
+Twenty Minute Pings [latest version as of 1/5/2020]
+Empty Chests Be Gone [latest version as of 1/5/2020] 
 Faster 3D Printers 1.0.0
 Faster Teleport Charge 1.0.0
 Unmodded Clients 1.1.4
-Multitudes
+Multitudes [latest version as of 1/5/2020]
 DPS Meter 0.0.5
