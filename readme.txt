@@ -48,7 +48,6 @@ CHANGELOG
 - Updated UnmoddedClients to 1.1.4
 - Added IncreasedHuntressRange 1.0.0 with a range increase of 1 meter per level
 
-
 1.0.4
 - Switched RoR2Cheats for RoRCheats 3.2.1
 
