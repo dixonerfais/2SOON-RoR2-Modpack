@@ -20,6 +20,9 @@ Thanks for downloading 2SOON! Below are the instructions to get everything worki
 ---------
 CHANGELOG
 ---------
+1.2.0 - The SKINS update!
+- Bored of the default ass skins? Come, survivor, take a look at my wares...
+
 1.1.4
 - Added RoRCheats 3.3.5
 
