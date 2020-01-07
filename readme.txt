@@ -22,6 +22,7 @@ CHANGELOG
 ---------
 1.2.0 - The SKINS update!
 - Bored of the default ass skins? Come, survivor, take a look at my wares...
+- Warbanners are no longer shared in any way [to reduce FPS lag]
 
 1.1.4
 - Added RoRCheats 3.3.5
