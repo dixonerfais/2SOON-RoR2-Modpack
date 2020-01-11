@@ -20,6 +20,17 @@ Thanks for downloading 2SOON! Below are the instructions to get everything worki
 ---------
 CHANGELOG
 ---------
+1.3.0
+- Updated ShareSuite to 1.14.0
+- Updated HjUpdater to 1.4.1
+- Updated RoRCheats to 3.3.8
+- Added BazaarPrinter 0.1.1
+- Removed FasterTeleportCharge 1.0.0 
+- Added AssortedSkins 1.0.0
+- Updated RyanSkinAPI to 1.3.0
+- Updated R2API to 2.3.20...from 2.3.7??
+- Added mistername's NoBossNoWait 1.1.1
+
 1.2.0 - The SKINS update!
 - Bored of the default ass skins? Come, survivor, take a look at my wares...
 - Warbanners are no longer shared in any way [to reduce FPS lag]
