@@ -31,8 +31,6 @@ CHANGELOG
 - Updated R2API to 2.3.20...from 2.3.7??
 - Added mistername's NoBossNoWait 1.1.1
 - Added Pingprovements 1.4.1
-- Added SkillSwapper 2.1.0
-- Added ShowDeathCause 1.0.0
 - Added MobileTurretFungus 0.0.1
 
 1.2.0 - The SKINS update!
